@@ -1,0 +1,14 @@
+<?php
+//第五课
+//第四课
+/*
+八种类型：整型、浮点型、字符串、布尔型、数组、对象、资源(比如连接mysql数据库)、NULL
+*/
+//第二课
+/*实现wampserver多版本切换
+1、wampserver可以从php官方下载其他版本到wamp/bin/php目录
+2、复制wamp默认php目录里的phpForAapche.ini和wampserver.conf到新下载的php版本目录
+3、修改phpForAapche.ini中的extension_dir路径
+4、重启，即可看到新的版本可选择
+*/
+?> 
